@@ -2,7 +2,7 @@
 This is a repository for a coding challenge composed of 3 problem sets.
 
 Below is the structure of the repository:
-
+```
 coding-challenge-repository
 │ README.md
 │
@@ -17,7 +17,7 @@ coding-challenge-repository
 ├── problem_set_3
 │ │ longest_increasing_subsequence.py
 │ │ README.md
-
+```
 
 Navigate to each problem_set_<#> folder for each coding challenge problem. Each has their own README file explaining the problem and the approach to solving it.
 
