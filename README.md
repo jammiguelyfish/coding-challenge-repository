@@ -42,7 +42,7 @@ Each python file in the problem sets are in a single script. Assuming that pytho
             ```python palindrome_pairs.py```
 
 - *Running using an IDE or VScode*
-    -   an IDE have a run button in order to run the code which will also have their own terminal where output will be shown.
+    -   an IDE with a run button in order to run the code which will also have their own terminal where output will be shown.
         Example IDE - PyCharm: https://www.jetbrains.com/pycharm/
    
     -   you can also use VScode to run your code: https://code.visualstudio.com/download
